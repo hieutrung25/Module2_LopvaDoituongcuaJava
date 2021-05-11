@@ -27,6 +27,6 @@ public class Main {
         System.out.println("Start Time: " + realStart);
         System.out.println("Stop time: " + realStop);
         long elapse = realStart - realStop;
-        System.out.println("Elapsed time: " + elapse);
+        System.out.println("Elapsed time is: " + elapse);
     }
 }
